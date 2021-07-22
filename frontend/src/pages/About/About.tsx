@@ -14,7 +14,7 @@ const About: React.FC = () => {
 					<IonTitle>About page</IonTitle>
 				</IonToolbar>
 			</IonHeader>
-			<IonContent fullscreen>
+			<IonContent className="ion-padding">
 				<h1>About page bitch</h1>
 			</IonContent>
 		</IonPage>
